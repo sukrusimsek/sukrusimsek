@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sukrusimsek
-- 👀 I’m interested in Mobile Application and Machine Learning.
-- 🌱 I’m currently learning Swift and Flutter
+- 👀 I’m interested in Mobile Application.
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me = sukrusimsekll@gmail.com
-- 👨🏼‍💻 I creating iOS App and Android App.
+- 👨🏼‍💻 I creating iOS App.
 - 
 <!---
 sukrusimsek/sukrusimsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
