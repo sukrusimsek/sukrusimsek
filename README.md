@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application.
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me = sukrusimsekll@gmail.com
-- 👨🏼‍💻 I creating iOS App.
+- 👨🏼‍💻 I'm creating iOS App.
 - 
 <!---
 sukrusimsek/sukrusimsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
