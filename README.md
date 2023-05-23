@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukru Simsek</h1>
-<h3 align="center">A passionate iOS Developer from Turkey</h3>
+<h3 align="center">iOS Developer from Turkey</h3>
 
 - 👀 I’m interested in **Mobile Application.**
 
